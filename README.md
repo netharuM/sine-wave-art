@@ -6,7 +6,7 @@
 
 - put the file you want to convert into sine waves into the folder `images`
 
-- rename the variable named `IMAGE_FILE_NAME` in `__main__.py` to the name of the image file
+- change the variable named `IMAGE_FILE_NAME` in `__main__.py` to the name of the image file
 
 - run the program with
   
