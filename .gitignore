@@ -1,0 +1,4 @@
+images/*
+!images/buddha3.jpg
+*.ps
+__pycache__
